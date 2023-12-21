@@ -59,12 +59,7 @@
 
 ###
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Bhavy457&show_icons=true&theme=dark&locale=en" alt="bhavy stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavy457&show_icons=true&theme=dark&locale=en&layout=compact" alt="bhavy stats" /></td>
-  </tr>
-</table>
+
 
 ###
 
